@@ -89,7 +89,7 @@
 
 1. Клонируйте репозиторий:
 \`\`\`bash
-git clone https://github.com/YOUR_USERNAME/titanic-survival-prediction.git
+git clone https://github.com/akbeak2001-afk/titanic-survival-prediction.git
 cd titanic-survival-prediction
 \`\`\`
 
